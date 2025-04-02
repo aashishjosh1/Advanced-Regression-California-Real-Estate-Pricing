@@ -1,0 +1,5 @@
+
+flask
+flasgger
+xgboost
+mod_wsgi
